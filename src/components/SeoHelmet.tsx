@@ -110,6 +110,8 @@ export const SeoHelmet: React.FC = () => {
       <meta property="og:description" content={seo.description} />
       <meta property="og:url" content={ogUrl} />
       <meta property="og:image" content={OG_IMAGE} />
+      <meta property="og:image:secure_url" content={OG_IMAGE} />
+      <meta property="og:image:type" content="image/png" />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
       <meta property="og:type" content="website" />
