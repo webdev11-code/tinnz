@@ -4,7 +4,7 @@ import { useLocation } from 'react-router-dom';
 const SITE_NAME = 'Tinnzstore';
 const BASE_URL = 'https://tinnzstore.com';
 const DEFAULT_DESC = 'Hosting premium Minecraft, VPS, Dedicated Server dan Baremetal. NVMe SSD super cepat, dukungan 24 jam penuh.';
-const OG_IMAGE = 'https://i.ibb.co/LD3QWJK/1002718304-2.webp';
+const OG_IMAGE = 'https://www.image2url.com/r2/default/images/1782881625905-954723da-89d3-441a-aa3f-11643cdb8f4a.jpg';
 
 interface SeoData {
   title: string;
